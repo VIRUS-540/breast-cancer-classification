@@ -364,7 +364,6 @@ input_df = pd.DataFrame(
     [input_data],
     columns=feature_names
 )
-st.dataframe(input_df)
 
 if st.button('Predict'):
     prediction = model.predict(input_df)
@@ -391,6 +390,5 @@ df = pd.read_sql_query(
     connection
 )
 
-st.dataframe(df)
 
 connection.close()
