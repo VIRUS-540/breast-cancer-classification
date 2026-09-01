@@ -475,6 +475,16 @@ The application then:
 7. Displays the corresponding prediction probability.
 8. Stores the prediction in a SQLite database.
 
+🚀Live Demo: https://breast-cancer-classification-atp4bkgbbtcswbovuauxtv.streamlit.app/
+
+<img width="1580" height="1530" alt="image" src="https://github.com/user-attachments/assets/2eaec5e5-b812-4557-9118-78ac98697068" />
+
+<img width="1468" height="1312" alt="image" src="https://github.com/user-attachments/assets/84a2100a-41af-4da5-bc9b-38f2b07c148d" />
+
+<img width="1546" height="1354" alt="Screenshot 2026-09-01 135627" src="https://github.com/user-attachments/assets/5f8b28d0-c17f-4b83-b842-0eae507bafd2" />
+
+
+
 ---
 
 # 🗄️ SQLite Database
